@@ -1,0 +1,20 @@
+{
+  "name": "ariline_ticketing_system",
+  "version": "1.0.0",
+  "description": "Final project INFO451",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fmushumba/airline-ticketing-system.git"
+  },
+  "author": "Kundwa Mushumba, Freda Mensa, Clinton Watson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fmushumba/airline-ticketing-system/issues"
+  },
+  "homepage": "https://github.com/fmushumba/airline-ticketing-system#readme"
+}
